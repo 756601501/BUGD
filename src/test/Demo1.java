@@ -62,5 +62,9 @@ public class Demo1 {
 	public static void fun4(){
 		System.out.println(new Date().getTime());
 	}
+	
+	public static void fun5(){
+		
+	}
 
 }
